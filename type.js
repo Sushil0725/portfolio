@@ -1,4 +1,4 @@
-const words = ["Web Developer", "Web Designer", "Creative Coder"];
+const words = ["Web Developer", "Web Designer", "Creative Coder","Sushil Bhattarai"];
 const typingTextElement = document.querySelector(".typing-text");
 
 let wordIndex = 0;
